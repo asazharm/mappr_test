@@ -1,0 +1,120 @@
+.gif_overlay{
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    /*background: rgba(0, 255, 0, 0.3);*/
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.gif_favorite{
+    display: flex;
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+    background: #282c34;
+    border-radius: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.gif_favorite-icon {
+    height: 30px;
+    width: 30px;
+}
+.gif_favorite-icon:hover{
+    color: red;
+}
+
+
+
+.gif_info{
+    width: 95%;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+    align-items: flex-end;
+}
+
+
+.gif_info-item{
+    cursor: pointer;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 40px;
+}
+
+.gif_info-icon{
+    width: 40px;
+    height: 40px;
+    color: #282c34;
+    position: absolute;
+    /*top: 0;*/
+    right: 0;
+    /*bottom: 0;*/
+}
+
+.gif_info-item span{
+    overflow: hidden;
+    transition-duration: 1s;
+    position: absolute;
+    left: 0;
+    width: 0;
+    height: 100%;
+    outline: 0;
+    border: 0;
+    display: none;
+    font-size: 0.9em;
+    border-radius: 20px;
+    padding: 0 20px;
+    background: rgba(40, 44, 52, 0.62);
+    color: white;
+}
+
+
+@media only screen and (min-width: 421px) {
+    .gif_info-item:hover {
+        transition-duration: 1s;
+        width: 100%;
+    }
+
+    .gif_info-item:hover .gif_info-icon{
+        transition-duration: 1s;
+        color: white;
+    }
+
+    .gif_info-item:hover span{
+        padding-right: 30px;
+        transition-duration: 1s;
+        width: 100%;
+        display: block;
+    }
+}
+
+
+@media only screen and (max-width: 420px) {
+    .gif_info-item.show {
+        width: 100%;
+    }
+
+    .gif_info-item.show .gif_info-icon{
+        color: white;
+    }
+
+    .gif_info-item.show span{
+        width: 100%;
+        display: block;
+    }
+}

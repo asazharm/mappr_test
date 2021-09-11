@@ -1,0 +1,220 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home test 1`] = `
+<div>
+  <div>
+    <nav
+      className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top"
+    >
+      <div
+        className="container"
+      >
+        <button
+          className="navbar-toggler"
+          onClick={[Function]}
+          type="button"
+        >
+          <span
+            className="navbar-toggler-icon"
+          />
+        </button>
+        <div
+          className="collapse navbar-collapse justify-content-between"
+          id="navbarSupportedContent"
+        >
+          <div
+            className="navbar-nav"
+          >
+            <a
+              className="nav-item nav-link active"
+              id="trending"
+              onClick={[Function]}
+            >
+              Trending
+            </a>
+            <a
+              className="nav-item nav-link"
+              id="favorites"
+              onClick={[Function]}
+            >
+              Favorites
+            </a>
+            <a
+              className="nav-item nav-link"
+              id="upload"
+              onClick={[Function]}
+            >
+              Upload
+            </a>
+          </div>
+          <div
+            className="grid_layout"
+          >
+            <div
+              className="grid_layout-item"
+              id="1"
+              onClick={[Function]}
+            >
+              <svg
+                className="grid_layout-icon"
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                strokeWidth="0"
+                style={
+                  Object {
+                    "color": undefined,
+                  }
+                }
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <rect
+                  height="16"
+                  rx="2"
+                  width="16"
+                />
+              </svg>
+            </div>
+            <div
+              className="grid_layout-item"
+              id="2"
+              onClick={[Function]}
+            >
+              <svg
+                className="grid_layout-icon"
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                strokeWidth="0"
+                style={
+                  Object {
+                    "color": undefined,
+                  }
+                }
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  clipRule="evenodd"
+                  d="M1 2.5A1.5 1.5 0 012.5 1h3A1.5 1.5 0 017 2.5v3A1.5 1.5 0 015.5 7h-3A1.5 1.5 0 011 5.5v-3zm8 0A1.5 1.5 0 0110.5 1h3A1.5 1.5 0 0115 2.5v3A1.5 1.5 0 0113.5 7h-3A1.5 1.5 0 019 5.5v-3zm-8 8A1.5 1.5 0 012.5 9h3A1.5 1.5 0 017 10.5v3A1.5 1.5 0 015.5 15h-3A1.5 1.5 0 011 13.5v-3zm8 0A1.5 1.5 0 0110.5 9h3a1.5 1.5 0 011.5 1.5v3a1.5 1.5 0 01-1.5 1.5h-3A1.5 1.5 0 019 13.5v-3z"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              className="grid_layout-item active"
+              id="3"
+              onClick={[Function]}
+            >
+              <svg
+                className="grid_layout-icon"
+                fill="currentColor"
+                height="1em"
+                stroke="currentColor"
+                strokeWidth="0"
+                style={
+                  Object {
+                    "color": undefined,
+                  }
+                }
+                viewBox="0 0 16 16"
+                width="1em"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M1 2a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 01-1 1H2a1 1 0 01-1-1V2zm5 0a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 01-1 1H7a1 1 0 01-1-1V2zm5 0a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 01-1 1h-2a1 1 0 01-1-1V2zM1 7a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 01-1 1H2a1 1 0 01-1-1V7zm5 0a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 01-1 1H7a1 1 0 01-1-1V7zm5 0a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 01-1 1h-2a1 1 0 01-1-1V7zM1 12a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 01-1 1H2a1 1 0 01-1-1v-2zm5 0a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 01-1 1H7a1 1 0 01-1-1v-2zm5 0a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 01-1 1h-2a1 1 0 01-1-1v-2z"
+                />
+              </svg>
+            </div>
+          </div>
+          <form
+            className="form-inline search"
+          >
+            
+            <input
+              onChange={[Function]}
+              required={true}
+              type="search"
+              value=""
+            />
+            <svg
+              className="fa fa-search"
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              strokeWidth="0"
+              style={
+                Object {
+                  "color": undefined,
+                }
+              }
+              viewBox="0 0 512 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M464 428L339.92 303.9a160.48 160.48 0 0030.72-94.58C370.64 120.37 298.27 48 209.32 48S48 120.37 48 209.32s72.37 161.32 161.32 161.32a160.48 160.48 0 0094.58-30.72L428 464zM209.32 319.69a110.38 110.38 0 11110.37-110.37 110.5 110.5 0 01-110.37 110.37z"
+              />
+            </svg>
+          </form>
+        </div>
+      </div>
+    </nav>
+    <div
+      id="grid_container"
+    >
+      <div
+        className="giphy-grid"
+        style={
+          Object {
+            "width": 1000,
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "height": "-6px",
+              "position": "relative",
+              "width": "999px",
+            }
+          }
+        />
+        <div>
+          <div
+            className="css-7fqhxk"
+          >
+            <div
+              className="loader css-1qt545t"
+            >
+              <div
+                className="css-1qyiwug"
+                color="#00ff99"
+              />
+              <div
+                className="css-17jbzkf"
+                color="#00ccff"
+              />
+              <div
+                className="css-1mksb1v"
+                color="#9933ff"
+              />
+              <div
+                className="css-b6jo2y"
+                color="#ff6666"
+              />
+              <div
+                className="css-ea8625"
+                color="#fff35c"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

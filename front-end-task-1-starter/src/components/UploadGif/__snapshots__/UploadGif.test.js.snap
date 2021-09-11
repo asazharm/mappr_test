@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UploadGif test 1 1`] = `null`;
+
+exports[`UploadGif test mobile 1 1`] = `null`;

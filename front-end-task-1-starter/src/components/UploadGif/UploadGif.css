@@ -1,0 +1,7 @@
+.uploadModal{
+}
+
+.uploadModal-header, .uploadModal-body, .uploadModal-footer{
+    background: #282c34;
+    color: rgba(255,255,255,.75);
+}

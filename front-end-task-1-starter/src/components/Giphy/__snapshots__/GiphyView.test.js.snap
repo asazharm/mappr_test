@@ -1,0 +1,256 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GiphyView test 1 1`] = `
+<div
+  className="giphy-grid"
+  style={
+    Object {
+      "width": 1000,
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "height": "-6px",
+        "position": "relative",
+        "width": "999px",
+      }
+    }
+  />
+  <div>
+    <div
+      className="css-7fqhxk"
+    >
+      <div
+        className="loader css-1qt545t"
+      >
+        <div
+          className="css-1qyiwug"
+          color="#00ff99"
+        />
+        <div
+          className="css-17jbzkf"
+          color="#00ccff"
+        />
+        <div
+          className="css-1mksb1v"
+          color="#9933ff"
+        />
+        <div
+          className="css-b6jo2y"
+          color="#ff6666"
+        />
+        <div
+          className="css-ea8625"
+          color="#fff35c"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`GiphyView test 2 1`] = `
+<div
+  className="giphy-grid"
+  style={
+    Object {
+      "width": 1000,
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "height": "-6px",
+        "position": "relative",
+        "width": "999px",
+      }
+    }
+  />
+  <div>
+    <div
+      className="css-7fqhxk"
+    >
+      <div
+        className="loader css-1qt545t"
+      >
+        <div
+          className="css-1qyiwug"
+          color="#00ff99"
+        />
+        <div
+          className="css-17jbzkf"
+          color="#00ccff"
+        />
+        <div
+          className="css-1mksb1v"
+          color="#9933ff"
+        />
+        <div
+          className="css-b6jo2y"
+          color="#ff6666"
+        />
+        <div
+          className="css-ea8625"
+          color="#fff35c"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`GiphyView test 3 1`] = `
+<div
+  className="giphy-grid"
+  style={
+    Object {
+      "width": 1000,
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "height": "-6px",
+        "position": "relative",
+        "width": "999px",
+      }
+    }
+  />
+  <div>
+    <div
+      className="css-7fqhxk"
+    >
+      <div
+        className="loader css-1qt545t"
+      >
+        <div
+          className="css-1qyiwug"
+          color="#00ff99"
+        />
+        <div
+          className="css-17jbzkf"
+          color="#00ccff"
+        />
+        <div
+          className="css-1mksb1v"
+          color="#9933ff"
+        />
+        <div
+          className="css-b6jo2y"
+          color="#ff6666"
+        />
+        <div
+          className="css-ea8625"
+          color="#fff35c"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`GiphyView test mobile 1 1`] = `
+<div
+  className="giphy-grid"
+  style={
+    Object {
+      "width": 1024,
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "height": "-6px",
+        "position": "relative",
+        "width": "1024px",
+      }
+    }
+  />
+  <div>
+    <div
+      className="css-7fqhxk"
+    >
+      <div
+        className="loader css-1qt545t"
+      >
+        <div
+          className="css-1qyiwug"
+          color="#00ff99"
+        />
+        <div
+          className="css-17jbzkf"
+          color="#00ccff"
+        />
+        <div
+          className="css-1mksb1v"
+          color="#9933ff"
+        />
+        <div
+          className="css-b6jo2y"
+          color="#ff6666"
+        />
+        <div
+          className="css-ea8625"
+          color="#fff35c"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`GiphyView test mobile 2 1`] = `
+<div
+  className="giphy-grid"
+  style={
+    Object {
+      "width": 1024,
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "height": "-6px",
+        "position": "relative",
+        "width": "1024px",
+      }
+    }
+  />
+  <div>
+    <div
+      className="css-7fqhxk"
+    >
+      <div
+        className="loader css-1qt545t"
+      >
+        <div
+          className="css-1qyiwug"
+          color="#00ff99"
+        />
+        <div
+          className="css-17jbzkf"
+          color="#00ccff"
+        />
+        <div
+          className="css-1mksb1v"
+          color="#9933ff"
+        />
+        <div
+          className="css-b6jo2y"
+          color="#ff6666"
+        />
+        <div
+          className="css-ea8625"
+          color="#fff35c"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
