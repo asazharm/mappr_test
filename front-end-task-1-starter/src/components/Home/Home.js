@@ -16,7 +16,7 @@ function Home(props) {
   const [layout, setLayout] = useLocalStorage('grid_layout', 3);
   const [showUploadModal, setShowUploadModal] = useState(false);
   const isMobile = useReactSimpleMatchMedia('phone');
-  const apiKey = 'pwZ7tgpLESvZ3AA7R8POfAs8VgTxGp7t';
+  const apiKey = '';
 
   const setFavorite = (gifId) => {
     const initFavoritesData = favorites;
